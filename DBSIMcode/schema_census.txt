@@ -1,0 +1,7 @@
+census
+
+[Foreign Key]
+
+[Primary Key]
+
+[Tables do not scale]
